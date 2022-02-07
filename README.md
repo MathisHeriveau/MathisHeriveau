@@ -69,3 +69,32 @@ Here are some ideas to get you started:
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MathisHeriveau&theme=react&show_icons=true&include_all_commits=true" />
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
+
+Row(
+  mainAxisSize: MainAxisSize.min,
+  children: <Widget>[
+    const SizedBox(width: 20.0, height: 100.0),
+    const Text(
+      'Be',
+      style: TextStyle(fontSize: 43.0),
+    ),
+    const SizedBox(width: 20.0, height: 100.0),
+    DefaultTextStyle(
+      style: const TextStyle(
+        fontSize: 40.0,
+        fontFamily: 'Horizon',
+      ),
+      child: AnimatedTextKit(
+        animatedTexts: [
+          RotateAnimatedText('AWESOME'),
+          RotateAnimatedText('OPTIMISTIC'),
+          RotateAnimatedText('DIFFERENT'),
+        ],
+        onTap: () {
+          print("Tap Event");
+        },
+      ),
+    ),
+  ],
+);
