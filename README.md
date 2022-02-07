@@ -67,3 +67,5 @@ Here are some ideas to get you started:
   
 
 <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MathisHeriveau&theme=react&show_icons=true&include_all_commits=true" />
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
