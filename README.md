@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-
+<p>
 <style>
  .loading {
     background: #094CFA;
@@ -103,3 +103,4 @@ Here are some ideas to get you started:
     }
  </style>
  <div class="loading"></div>
+ </p>
