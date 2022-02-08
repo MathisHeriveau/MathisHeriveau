@@ -71,30 +71,35 @@ Here are some ideas to get you started:
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: <Widget>[
-    const SizedBox(width: 20.0, height: 100.0),
-    const Text(
-      'Be',
-      style: TextStyle(fontSize: 43.0),
-    ),
-    const SizedBox(width: 20.0, height: 100.0),
-    DefaultTextStyle(
-      style: const TextStyle(
-        fontSize: 40.0,
-        fontFamily: 'Horizon',
-      ),
-      child: AnimatedTextKit(
-        animatedTexts: [
-          RotateAnimatedText('AWESOME'),
-          RotateAnimatedText('OPTIMISTIC'),
-          RotateAnimatedText('DIFFERENT'),
-        ],
-        onTap: () {
-          print("Tap Event");
-        },
-      ),
-    ),
-  ],
-);
+<style>
+ .loading {
+    background: #094CFA;
+    width: 60px;
+    height: 60px;
+    margin-top: 2%;
+    border-radius: 4px;
+    /* Here we declare our inline animation */
+    animation: rotate 3s linear infinite;
+  }
+
+  /* Here we define our animation with the name "rotate" */
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+                margin-left: 45%;
+    }
+            10% {
+                margin-left:45%;
+            }
+            50%{
+                margin-left: 55%;
+            }
+            60%{
+                margin-left: 55%;
+            }
+    to {
+      transform: rotate(720deg);
+                margin-left: 45%;
+    }
+ </style>
+ <div class="loading"></div>
