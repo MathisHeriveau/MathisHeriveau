@@ -70,37 +70,4 @@ Here are some ideas to get you started:
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-<p>
-<style>
- .loading {
-    background: #094CFA;
-    width: 60px;
-    height: 60px;
-    margin-top: 2%;
-    border-radius: 4px;
-    /* Here we declare our inline animation */
-    animation: rotate 3s linear infinite;
-  }
 
-  /* Here we define our animation with the name "rotate" */
-  @keyframes rotate {
-    from {
-      transform: rotate(0deg);
-                margin-left: 45%;
-    }
-            10% {
-                margin-left:45%;
-            }
-            50%{
-                margin-left: 55%;
-            }
-            60%{
-                margin-left: 55%;
-            }
-    to {
-      transform: rotate(720deg);
-                margin-left: 45%;
-    }
- </style>
- <div class="loading"></div>
- </p>
