@@ -1,73 +1,117 @@
-# README - Profil d'un étudiant en informatique
 
-## À propos de moi 👩‍💻
+# Profil — Mathis Hériveau
 
-Je suis un étudiant passionné par l'informatique, actuellement en Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à l'Université Toulouse Capitole I. J'ai démarré mon parcours en informatique par un **BUT Informatique** à l'IUT de **Anglet** où j'ai étudié de 2021 à 2024. En parallèle de mes études, j'ai effectué une **alternance en développement web** au **CDG33** (Centre de Gestion de la Fonction Publique Territoriale), où j'ai pu développer des compétences pratiques en création de sites et d'applications.
+## À propos
 
-Depuis septembre 2024, j'ai rejoint **Thales Alenia Space** 🛰️🌏️, une entreprise leader dans le domaine de l'aérospatial, où je suis actuellement en formation spécialisée en **Intelligence Artificielle (IA)**.
+Je m’appelle **Mathis Hériveau**, né le 13 décembre 2003. Passionné par l’informatique, la data et l’intelligence artificielle, je poursuis actuellement un **Master MIAGE – Parcours IDA (Intelligence, Données & Applications)** à l’Université Toulouse Capitole I.  
+Mon orientation est résolument centrée sur les **architectures data**, le **traitement distribué**, la **mise en place de pipelines robustes**, ainsi que le développement d’outils d’**IA locale**, adaptés aux environnements industriels sensibles.
 
----
-
-## Parcours académique 👨‍🎓
-
-### 1. **BUT Informatique à l'IUT de Anglet (2021 - 2024)** 🎖️
-Durant mon parcours en BUT, j'ai acquis une solide formation en développement logiciel, gestion de bases de données, réseaux et sécurité informatique. J'ai également appris à travailler en équipe sur des projets concrets en utilisant les outils modernes de développement.
-
-### 2. **Master MIAGE à l'Université Toulouse Capitole I (2024 - 2026)** 📚️
-Actuellement en Master MIAGE, je suis formé aux méthodes et outils permettant de gérer et de développer des systèmes d'information en entreprise. Mon programme comprend des cours sur les bases de données avancées, le génie logiciel, la gestion de projet informatique et, bien sûr, l'**Intelligence Artificielle**.
+Je suis également **président du BDE AMTC**, un rôle dans lequel j’agis comme **accompagnateur**, facilitateur et moteur de cohésion — davantage dans l’esprit d’un **Scrum Master** que d’un rôle autoritaire. J'encourage, j’organise, je motive, et je crée les conditions pour que tout le monde donne le meilleur de lui-même.
 
 ---
 
-## Mon expérience professionnelle 💻️
+## Parcours académique
 
-### **Alternance - Développeur web au CDG33 (2023 - 2024)**
-Pendant ma troisième année de BUT, j'ai effectué une alternance au **CDG33**, où j'ai développé un **site de réservation** pour les ressources internes (salles de réunion, véhicules de fonction et autres matériels). L'application a été conçue avec une intégration avec **Outlook Calendar**, permettant une synchronisation en temps réel des réservations.
+### Master MIAGE – Parcours IDA (2024–2026)  
+**Université Toulouse Capitole I – Toulouse**
 
-#### Technologies utilisées : 📑
-- **Frontend** : HTML, CSS, JavaScript (Vue.js)
-- **Backend** : Node.js, Express.js
-- **Base de données** : MongoDB
-- **Intégration Outlook API** : Synchronisation avec les calendriers Outlook
+Le parcours IDA met l’accent sur les technologies et méthodologies liées aux systèmes data modernes :
 
-### **Formation en IA chez Thales Alenia Space (2024 - 2026)**
-Actuellement, je suis en formation sur **l'Intelligence Artificielle** chez **Thales Alenia Space**. Cette formation se compose de 7 modules principaux qui couvrent les domaines suivants :
+- Data Lake, Lakehouse, Data Warehouse, Data Mesh  
+- Traitement distribué : Hadoop, Spark, MapReduce  
+- Ingénierie des données et pipelines ETL/ELT  
+- Gouvernance des données et architecture décisionnelle  
+- Intelligence Artificielle appliquée aux systèmes d'information  
+- Apprentissage profond, NLP, Vision, LLM locaux  
 
-1. **Introduction à l'Intelligence Artificielle** : Concepts de base, historique et applications.
-4. **Apprentissage profond (Deep Learning)** : Réseaux de neurones artificiels, CNN, RNN.
-5. **Traitement du langage naturel (NLP)** : Modèles de langage, analyse de texte, génération de texte.
-6. **Vision par ordinateur** : Détection d'objets, segmentation d'image, reconnaissance faciale.
-7. **Éthique et IA** : Considérations éthiques liées à l'usage de l'IA dans différents secteurs.
+Cette formation me positionne à l’intersection du **Data Engineering**, de l’**IA appliquée**, et du **Software Engineering**.
 
----
+### BUT Informatique (2021–2024)  
+**IUT de Bayonne – Site d’Anglet**
 
-## Compétences techniques ✅️
-
-### Langages de programmation :
-- **Python** : Utilisé pour des projets IA et Data Science.
-- **JavaScript** : Développement front-end et back-end.
-- **Java** : Connaissance solide du langage, utilisé dans le cadre de mes projets et formations.
-- **SQL & NoSQL** : Maîtrise des bases de données relationnelles et non relationnelles.
-
-### Frameworks et outils :
-- **Laravel** : Développement d'applications web modernes.
-- **Node.js** : Développement back-end pour applications web.
-- **TensorFlow et PyTorch** : Utilisés pour les projets en IA et Deep Learning.
-- **Git/GitHub** : Gestion de versions et collaboration en équipe.
+Parcours complet en développement, bases de données, systèmes, réseaux, gestion de projet, et mise en production.  
+Le BUT m’a apporté une base technique solide et une vraie culture projet.
 
 ---
 
-## Passion pour l'Intelligence Artificielle 🧠
+## Expériences professionnelles
 
-Je suis particulièrement passionné par le domaine de l'**Intelligence Artificielle**. J'adore explorer les possibilités offertes par les algorithmes d'apprentissage automatique et profond pour résoudre des problèmes complexes. Mon objectif est d'appliquer ces technologies dans des domaines innovants comme l'aérospatial, la santé, ou la gestion des entreprises.
+### Alternant Ingénieur IA – Thales Alenia Space (2024–2026)  
+**Toulouse**
 
-Je crois fermement que l'IA va transformer de nombreux secteurs, et j'aspire à être un acteur clé dans cette révolution technologique.
+Développement d’outils IA internes dans un environnement sécurisé et exigeant :
+
+- Assistants IA spécialisés (analyse de code, explicabilité, traçage GitLab, debugging automatique)  
+- Parsing avancé : Python, Java, TypeScript, avec chunking contextuel  
+- Pipelines d’extraction documentaire haute performance (PDF, images, tableaux)  
+- Implémentation d’IA **100% locales** : Ollama, LLM GGUF, Whisper.cpp, vector stores  
+- Optimisation CPU/GPU, multiprocessing, traitement massif  
+- Développement d’outils IA embarqués adaptés à l’industrie spatiale
+
+### Développeur Web – CDG33 (2023–2024)  
+Développement d’un système complet de réservation interne :
+
+- Vue.js, Node.js, Express  
+- MongoDB  
+- Outlook Calendar API  
+- Authentification et gestion des permissions  
+- Mise en production opérationnelle  
+
+---
+
+## Engagement étudiant
+
+### Président du BDE AMTC – Université Toulouse Capitole
+
+Rôle orienté **accompagnement**, dynamisation et facilitation :
+
+- Création d’un cadre propice à l’engagement  
+- Coordination de l’équipe (sans autoritarisme, modèle collaboratif)  
+- Organisation d’événements majeurs (galas, intégrations, soirées)  
+- Gestion budgétaire et administrative  
+- Partenariats et communication  
+- Leadership basé sur la motivation, la cohésion et la co-construction  
+
+---
+
+## Compétences techniques
+
+### Data & Big Data  
+- Architectures Data : Lakehouse, Data Mesh, Warehouse  
+- Hadoop, Spark, MapReduce  
+- Orchestration ETL/ELT  
+- Ingestion distribuée et pipelines robustes  
+
+### Intelligence Artificielle  
+- Deep Learning : PyTorch, TensorFlow  
+- NLP, Vision, Transformers  
+- LLM locaux / IA embarquée  
+- Analyse de logs, assistants intelligents  
+
+### Développement  
+- Python, Java, JavaScript/TypeScript  
+- Node.js, Vue.js, Laravel  
+- Git, GitLab, CI/CD  
+- Docker, Linux  
+
+### Bases de données  
+- PostgreSQL, MySQL  
+- MongoDB  
+- ChromaDB, Weaviate  
 
 ---
 
 ## Objectifs professionnels
 
-À court terme, mon objectif est de renforcer mes compétences techniques en IA et de mettre en pratique les connaissances acquises dans mes projets actuels chez **Thales Alenia Space**. À moyen et long terme, je souhaite participer au développement de solutions innovantes basées sur l'IA pour des applications industrielles et commerciales.
+- Devenir Ingénieur IA / Data Engineer / Data Architect  
+- Travailler sur des systèmes critiques et data-intensive (spatial, défense, énergie, santé)  
+- Concevoir des architectures data fiables et scalables  
+- Développer des IA embarquées performantes et industrialisables  
 
 ---
 
-Merci de visiter ma page !
+## Contact  
+
+- 06 22 61 58 27
+- mathis.heriveau@gmail.com 
+
