@@ -1,92 +1,117 @@
 
-<p align="center">
-  <img src="https://tas-static.thalesaleniaspace.com/cms/public/styles/1920/public/2022-04/meteosat-third-generation-thales-alenia-space_emmanuel-briot_mid-high.jpg.webp?itok=tIsPd9L-" style="border-radius: 50%; widht: 200px; height: 200px;" alt="Mathis Hériveau"/>
-</p>
+# Profil — Mathis Hériveau
 
-<h1 align="center">Mathis Hériveau</h1>
-<h3 align="center">AI & Data Engineering — MIAGE IDA</h3>
-<h4 align="center">Thales Alenia Space — AI Apprentice</h4>
+## À propos
 
----
+Je m’appelle **Mathis Hériveau**, né le 13 décembre 2003. Passionné par l’informatique, la data et l’intelligence artificielle, je poursuis actuellement un **Master MIAGE – Parcours IDA (Intelligence, Données & Applications)** à l’Université Toulouse Capitole I.  
+Mon orientation est résolument centrée sur les **architectures data**, le **traitement distribué**, la **mise en place de pipelines robustes**, ainsi que le développement d’outils d’**IA locale**, adaptés aux environnements industriels sensibles.
 
-## 🔍 About Me  
-I'm **Mathis Hériveau**, an AI & Data Engineering student specialized in **distributed systems**, **data architectures**, and **embedded/local AI**.  
-I'm also President of the **AMTC Student Association**, where I act as a **facilitator**, ensuring collaboration, motivation, and team alignment — much like a Scrum Master.
-
-I focus on building scalable pipelines, high‑performance data systems, and AI tools adapted to sensitive industrial environments.
+Je suis également **président du BDE AMTC**, un rôle dans lequel j’agis comme **accompagnateur**, facilitateur et moteur de cohésion — davantage dans l’esprit d’un **Scrum Master** que d’un rôle autoritaire. J'encourage, j’organise, je motive, et je crée les conditions pour que tout le monde donne le meilleur de lui-même.
 
 ---
 
-## 🎓 Academic Background
+## Parcours académique
 
-### 🎓 Master MIAGE — IDA (Intelligence, Données & Applications)  
-**Université Toulouse Capitole — 2024 → 2026**  
-- Data Lake • Lakehouse • Data Warehouse • Data Mesh  
-- Distributed Processing: **Spark**, **Hadoop**, **MapReduce**  
-- ETL/ELT Architecture & Data Governance  
-- Deep Learning, NLP, Vision, Local LLMs  
-- Secure & scalable information systems
+### Master MIAGE – Parcours IDA (2024–2026)  
+**Université Toulouse Capitole I – Toulouse**
 
-### 🎓 BUT Informatique — IUT de Bayonne (Anglet)  
-**2021 → 2024**  
-- Software Engineering, Networks, Systems  
-- SQL/NoSQL Databases  
-- Web development & production deployment  
-- Agile teamwork & real‑world projects  
+Le parcours IDA met l’accent sur les technologies et méthodologies liées aux systèmes data modernes :
 
----
+- Data Lake, Lakehouse, Data Warehouse, Data Mesh  
+- Traitement distribué : Hadoop, Spark, MapReduce  
+- Ingénierie des données et pipelines ETL/ELT  
+- Gouvernance des données et architecture décisionnelle  
+- Intelligence Artificielle appliquée aux systèmes d'information  
+- Apprentissage profond, NLP, Vision, LLM locaux  
 
-## 🛰️ Professional Experience
+Cette formation me positionne à l’intersection du **Data Engineering**, de l’**IA appliquée**, et du **Software Engineering**.
 
-### **Thales Alenia Space — AI Engineering Apprentice (2024–2026)**  
-- Local AI assistants (debugging, code tracing, explicability)  
-- Code parsing (Python, Java, TS) with contextual chunking  
-- Large-scale document intelligence (PDF, images, tables)  
-- LLMs: GGUF, embeddings, vector stores (ChromaDB, Weaviate)  
-- High‑performance multiprocessing  
-- Secure offline AI pipelines  
+### BUT Informatique (2021–2024)  
+**IUT de Bayonne – Site d’Anglet**
 
-### **CDG33 — Web Developer (2023–2024)**  
-- Booking system with Outlook Calendar Sync  
-- Vue.js • Node.js • MongoDB  
-- Authentication • Permissions • Real deployment  
+Parcours complet en développement, bases de données, systèmes, réseaux, gestion de projet, et mise en production.  
+Le BUT m’a apporté une base technique solide et une vraie culture projet.
 
 ---
 
-## 🛠️ Technical Skills  
+## Expériences professionnelles
 
-### 🧠 **Artificial Intelligence**  
-- PyTorch • TensorFlow  
-- NLP • Vision • Embeddings  
-- LLMs (Local / Offline)  
-- Model optimization & document intelligence  
+### Alternant Ingénieur IA – Thales Alenia Space (2024–2026)  
+**Toulouse**
 
-### 🗄️ **Data Engineering & Distributed Systems**  
-- Spark • Hadoop • MapReduce  
-- Lakehouse • Data Mesh • ETL/ELT  
-- Distributed ingestion pipelines  
+Développement d’outils IA internes dans un environnement sécurisé et exigeant :
 
-### 💻 **Development**  
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,vue,github,gitlab,linux,docker,bash" />
-</p>
+- Assistants IA spécialisés (analyse de code, explicabilité, traçage GitLab, debugging automatique)  
+- Parsing avancé : Python, Java, TypeScript, avec chunking contextuel  
+- Pipelines d’extraction documentaire haute performance (PDF, images, tableaux)  
+- Implémentation d’IA **100% locales** : Ollama, LLM GGUF, Whisper.cpp, vector stores  
+- Optimisation CPU/GPU, multiprocessing, traitement massif  
+- Développement d’outils IA embarqués adaptés à l’industrie spatiale
 
-### 🧰 **Databases & Storage**  
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>  
-- Vector DB: ChromaDB, Weaviate  
+### Développeur Web – CDG33 (2023–2024)  
+Développement d’un système complet de réservation interne :
 
----
-
-## 🎯 Career Goals  
-- AI Engineer / Data Engineer / Data Architect  
-- Work on distributed, high‑criticality systems (space, defense, energy, health)  
-- Build scalable data ecosystems  
-- Develop efficient embedded/local AI solutions  
+- Vue.js, Node.js, Express  
+- MongoDB  
+- Outlook Calendar API  
+- Authentification et gestion des permissions  
+- Mise en production opérationnelle  
 
 ---
 
-## 📩 Contact  
-📞 06 22 61 58 27  
-📧 mathis.heriveau@gmail.com
+## Engagement étudiant
+
+### Président du BDE AMTC – Université Toulouse Capitole
+
+Rôle orienté **accompagnement**, dynamisation et facilitation :
+
+- Création d’un cadre propice à l’engagement  
+- Coordination de l’équipe (sans autoritarisme, modèle collaboratif)  
+- Organisation d’événements majeurs (galas, intégrations, soirées)  
+- Gestion budgétaire et administrative  
+- Partenariats et communication  
+- Leadership basé sur la motivation, la cohésion et la co-construction  
+
+---
+
+## Compétences techniques
+
+### Data & Big Data  
+- Architectures Data : Lakehouse, Data Mesh, Warehouse  
+- Hadoop, Spark, MapReduce  
+- Orchestration ETL/ELT  
+- Ingestion distribuée et pipelines robustes  
+
+### Intelligence Artificielle  
+- Deep Learning : PyTorch, TensorFlow  
+- NLP, Vision, Transformers  
+- LLM locaux / IA embarquée  
+- Analyse de logs, assistants intelligents  
+
+### Développement  
+- Python, Java, JavaScript/TypeScript  
+- Node.js, Vue.js, Laravel  
+- Git, GitLab, CI/CD  
+- Docker, Linux  
+
+### Bases de données  
+- PostgreSQL, MySQL  
+- MongoDB  
+- ChromaDB, Weaviate  
+
+---
+
+## Objectifs professionnels
+
+- Devenir Ingénieur IA / Data Engineer / Data Architect  
+- Travailler sur des systèmes critiques et data-intensive (spatial, défense, énergie, santé)  
+- Concevoir des architectures data fiables et scalables  
+- Développer des IA embarquées performantes et industrialisables  
+
+---
+
+## Contact  
+
+- 06 22 61 58 27
+- mathis.heriveau@gmail.com 
+
