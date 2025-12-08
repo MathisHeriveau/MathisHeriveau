@@ -44,9 +44,8 @@ Développement d’outils IA internes dans un environnement sécurisé et exigea
 - Assistants IA spécialisés (analyse de code, explicabilité, traçage GitLab, debugging automatique)  
 - Parsing avancé : Python, Java, TypeScript, avec chunking contextuel  
 - Pipelines d’extraction documentaire haute performance (PDF, images, tableaux)  
-- Implémentation d’IA **100% locales** : Ollama, LLM GGUF, Whisper.cpp, vector stores  
-- Optimisation CPU/GPU, multiprocessing, traitement massif  
-- Développement d’outils IA embarqués adaptés à l’industrie spatiale
+- Implémentation d’IA **100% locales** : Ollama, vector stores  
+- Optimisation CPU/GPU
 
 ### Développeur Web – CDG33 (2023–2024)  
 Développement d’un système complet de réservation interne :
