@@ -3,8 +3,7 @@
 
 ## À propos
 
-Je m’appelle **Mathis Hériveau**, né le 13 décembre 2003. Passionné par l’informatique, la data et l’intelligence artificielle, je poursuis actuellement un **Master MIAGE – Parcours IDA (Intelligence, Données & Applications)** à l’Université Toulouse Capitole I.  
-Mon orientation est résolument centrée sur les **architectures data**, le **traitement distribué**, la **mise en place de pipelines robustes**, ainsi que le développement d’outils d’**IA locale**, adaptés aux environnements industriels sensibles.
+Je m’appelle **Mathis Hériveau**, né le 13 décembre 2003. Passionné par l’informatique, la data et l’intelligence artificielle, je poursuis actuellement un **Master MIAGE – Parcours IDA (Ingénierie des Données et Analyses)** à l’Université Toulouse Capitole I.  
 
 Je suis également **président du BDE AMTC**, un rôle dans lequel j’agis comme **accompagnateur**, facilitateur et moteur de cohésion — davantage dans l’esprit d’un **Scrum Master** que d’un rôle autoritaire. J'encourage, j’organise, je motive, et je crée les conditions pour que tout le monde donne le meilleur de lui-même.
 
