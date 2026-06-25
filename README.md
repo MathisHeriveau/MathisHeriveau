@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=160&section=header&text=Mathis%20Hériveau&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=AI%20Engineer%20Apprentice%20%7C%20Data%20Engineering%20%7C%20Local%20LLMs&descAlignY=56&descSize=16" alt="Mathis Hériveau banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=160&section=header&text=Mathis%20H%C3%A9riveau&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=AI%20Engineer%20Apprentice%20%7C%20Data%20Engineering%20%7C%20Local%20LLMs&descAlignY=56&descSize=16" alt="Mathis Hériveau banner" />
 </p>
 
 <p align="center">
@@ -73,11 +73,6 @@ I tend to sit at the intersection of **software engineering**, **data engineerin
 - Data Lakehouse, ETL/ELT, distributed processing, and decision systems
 - Clean developer tooling for debugging, traceability, and automation
 - Team facilitation as president of **BDE AMTC**, with a Scrum Master mindset
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MathisHeriveau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,e0f2fe,dcfce7&theme=graywhite" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisHeriveau&hide=html,css&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,dcfce7,dbeafe&theme=graywhite" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,45:2563eb,100:0f172a&height=70&section=footer" alt="Footer wave" />
