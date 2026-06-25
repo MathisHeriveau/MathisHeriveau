@@ -1,115 +1,84 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:22c55e&height=160&section=header&text=Mathis%20Hériveau&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=AI%20Engineer%20Apprentice%20%7C%20Data%20Engineering%20%7C%20Local%20LLMs&descAlignY=56&descSize=16" alt="Mathis Hériveau banner" />
+</p>
 
-# Profil — Mathis Hériveau
+<p align="center">
+  <a href="mailto:mathis.heriveau@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://github.com/MathisHeriveau"><img src="https://img.shields.io/badge/-GitHub-000?&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MathisHeriveau&style=flat-square&color=2563eb" alt="Profile views" />
+</p>
 
-## À propos
+### Hi, I'm Mathis
 
-Je m’appelle **Mathis Hériveau**, né le 13 décembre 2003. Passionné par l’informatique, la data et l’intelligence artificielle, je poursuis actuellement un **Master MIAGE – Parcours IDA (Ingénierie des Données et Analyses)** à l’Université Toulouse Capitole I.  
+I'm an **AI engineer apprentice at Thales Alenia Space** and a **Master MIAGE IDA** student in Toulouse. I like building useful internal AI tools: local assistants, code analysis pipelines, document extraction, RAG systems, and data-heavy applications that have to work in constrained environments.
 
-Je suis également **président du BDE AMTC**, un rôle dans lequel j’agis comme **accompagnateur**, facilitateur et moteur de cohésion — davantage dans l’esprit d’un **Scrum Master** que d’un rôle autoritaire. J'encourage, j’organise, je motive, et je crée les conditions pour que tout le monde donne le meilleur de lui-même.
+I tend to sit at the intersection of **software engineering**, **data engineering**, and **applied AI**. Give me logs, legacy code, PDFs, vector stores, or a local LLM that needs taming, and I am probably already opening a terminal.
 
----
+### Languages
 
-## Parcours académique
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=F89820)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 
-### Master MIAGE – Parcours IDA (2024–2026)  
-**Université Toulouse Capitole I – Toulouse**
+### AI & Data
 
-Le parcours IDA met l’accent sur les technologies et méthodologies liées aux systèmes data modernes :
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Transformers](https://img.shields.io/badge/-Transformers-000?&logo=huggingface)
+![Ollama](https://img.shields.io/badge/-Ollama-000?&logo=ollama)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
+![Spark](https://img.shields.io/badge/-Spark-000?&logo=apachespark)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000?&logo=databricks)
 
-- Data Lake, Lakehouse, Data Warehouse, Data Mesh  
-- Traitement distribué : Hadoop, Spark, MapReduce  
-- Ingénierie des données et pipelines ETL/ELT  
-- Gouvernance des données et architecture décisionnelle  
-- Intelligence Artificielle appliquée aux systèmes d'information  
-- Apprentissage profond, NLP, Vision, LLM locaux  
+### Technologies
 
-Cette formation me positionne à l’intersection du **Data Engineering**, de l’**IA appliquée**, et du **Software Engineering**.
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vuedotjs)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=githubactions)
 
-### BUT Informatique (2021–2024)  
-**IUT de Bayonne – Site d’Anglet**
+### Featured Projects
 
-Parcours complet en développement, bases de données, systèmes, réseaux, gestion de projet, et mise en production.  
-Le BUT m’a apporté une base technique solide et une vraie culture projet.
+[![](https://img.shields.io/badge/-🧪%20Huihui%20Qwable%20Lab-000)](https://github.com/MathisHeriveau/Huihui-Qwable-Lab)
+[![](https://img.shields.io/badge/-🧠%20LLM%20A%20to%20Z-000)](https://github.com/MathisHeriveau/Module-7-LLM-A-to-Z)
+[![](https://img.shields.io/badge/-🤖%20RNN%20Implementation-000)](https://github.com/MathisHeriveau/Module-1-Implementation-RNN)
+[![](https://img.shields.io/badge/-🖼%20CNN%20Implementation-000)](https://github.com/MathisHeriveau/Module-2-Implementation-CNN)
+[![](https://img.shields.io/badge/-🎮%20A3C%20LSTM-000)](https://github.com/MathisHeriveau/Module-3-A3C-LSTM)
+[![](https://img.shields.io/badge/-📊%20BDD%20Decisionnel-000)](https://github.com/MathisHeriveau/BDD-Decisionnel)
+[![](https://img.shields.io/badge/-🌐%20Web%20Project-000)](https://github.com/MathisHeriveau/projet-web)
+[![](https://img.shields.io/badge/-🐳%20Docker%20Compose-000)](https://github.com/MathisHeriveau/Docker-compose)
 
----
+### Academic & Engineering Work
 
-## Expériences professionnelles
+[![](https://img.shields.io/badge/-☕%20Hadoop%20Mac-000)](https://github.com/MathisHeriveau/Hadoop_Mac)
+[![](https://img.shields.io/badge/-🧮%20Quality%20Development-000)](https://github.com/MathisHeriveau/R5.A.08_Qualite_de_developpement)
+[![](https://img.shields.io/badge/-🕸%20Angular%20Project-000)](https://github.com/MathisHeriveau/R4.A.10-Compl-ment-Web)
+[![](https://img.shields.io/badge/-⚙️%20Maintenance%20Car%20App-000)](https://github.com/MathisHeriveau/Maintenance-applicative-CarApp)
+[![](https://img.shields.io/badge/-🚌%20Bus%20Traffic%20Data-000)](https://github.com/MathisHeriveau/S2-02)
+[![](https://img.shields.io/badge/-📈%20Python%20%26%20Excel%20Graph-000)](https://github.com/MathisHeriveau/S2-04)
 
-### Alternant Ingénieur IA – Thales Alenia Space (2024–2026)  
-**Toulouse**
+### Current Focus
 
-Développement d’outils IA internes dans un environnement sécurisé et exigeant :
+- Local LLMs, RAG, code intelligence, and secure AI assistants
+- Data Lakehouse, ETL/ELT, distributed processing, and decision systems
+- Clean developer tooling for debugging, traceability, and automation
+- Team facilitation as president of **BDE AMTC**, with a Scrum Master mindset
 
-- Assistants IA spécialisés (analyse de code, explicabilité, traçage GitLab, debugging automatique)  
-- Parsing avancé : Python, Java, TypeScript, avec chunking contextuel  
-- Pipelines d’extraction documentaire haute performance (PDF, images, tableaux)  
-- Implémentation d’IA **100% locales** : Ollama, vector stores  
-- Optimisation CPU/GPU
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MathisHeriveau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,e0f2fe,dcfce7&theme=graywhite" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisHeriveau&hide=html,css&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,dcfce7,dbeafe&theme=graywhite" alt="Top languages" />
+</p>
 
-### Développeur Web – CDG33 (2023–2024)  
-Développement d’un système complet de réservation interne :
-
-- Vue.js, Node.js, Express  
-- MongoDB  
-- Outlook Calendar API  
-- Authentification et gestion des permissions  
-- Mise en production opérationnelle  
-
----
-
-## Engagement étudiant
-
-### Président du BDE AMTC – Université Toulouse Capitole
-
-Rôle orienté **accompagnement**, dynamisation et facilitation :
-
-- Création d’un cadre propice à l’engagement  
-- Coordination de l’équipe (sans autoritarisme, modèle collaboratif)  
-- Organisation d’événements majeurs (galas, intégrations, soirées)  
-- Gestion budgétaire et administrative  
-- Partenariats et communication  
-- Leadership basé sur la motivation, la cohésion et la co-construction  
-
----
-
-## Compétences techniques
-
-### Data & Big Data  
-- Architectures Data : Lakehouse, Data Mesh, Warehouse  
-- Hadoop, Spark, MapReduce  
-- Orchestration ETL/ELT  
-- Ingestion distribuée et pipelines robustes  
-
-### Intelligence Artificielle  
-- Deep Learning : PyTorch, TensorFlow  
-- NLP, Vision, Transformers  
-- LLM locaux / IA embarquée  
-- Analyse de logs, assistants intelligents  
-
-### Développement  
-- Python, Java, JavaScript/TypeScript  
-- Node.js, Vue.js, Laravel  
-- Git, GitLab, CI/CD  
-- Docker, Linux  
-
-### Bases de données  
-- PostgreSQL, MySQL  
-- MongoDB  
-- ChromaDB, Weaviate  
-
----
-
-## Objectifs professionnels
-
-- Devenir Ingénieur IA / Data Engineer / Data Architect  
-- Travailler sur des systèmes critiques et data-intensive (spatial, défense, énergie, santé)  
-- Concevoir des architectures data fiables et scalables  
-- Développer des IA embarquées performantes et industrialisables  
-
----
-
-## Contact  
-
-- 06 22 61 58 27
-- mathis.heriveau@gmail.com 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,45:2563eb,100:0f172a&height=70&section=footer" alt="Footer wave" />
+</p>
