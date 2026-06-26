@@ -57,6 +57,9 @@ I tend to sit at the intersection of **software engineering**, **data engineerin
 [![](https://img.shields.io/badge/-📊%20BDD%20Decisionnel-000)](https://github.com/MathisHeriveau/BDD-Decisionnel)
 [![](https://img.shields.io/badge/-🌐%20Web%20Project-000)](https://github.com/MathisHeriveau/projet-web)
 [![](https://img.shields.io/badge/-🐳%20Docker%20Compose-000)](https://github.com/MathisHeriveau/Docker-compose)
+[![](https://img.shields.io/badge/-🎄%20Advent%20of%20Code%2025-000)](https://github.com/MathisHeriveau/Advent-of-code-25)
+
+Some Advent of Code runs happened offline too, because apparently not every late-night puzzle needs a repo.
 
 ### Nuit de l'Info
 
