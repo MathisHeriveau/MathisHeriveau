@@ -61,6 +61,16 @@ I tend to sit at the intersection of **software engineering**, **data engineerin
 
 Some Advent of Code runs happened offline too, because apparently not every late-night puzzle needs a repo.
 
+### Private GitLab Work
+
+GitHub is only the public part of the story. A lot of my engineering activity lives on an internal company GitLab: AI assistants, code intelligence, document pipelines, debugging tools, and local LLM experiments in secured environments.
+
+![Internal GitLab](https://img.shields.io/badge/-Internal%20GitLab%20activity-000?&logo=GitLab)
+![Secure AI](https://img.shields.io/badge/-Secure%20AI%20tooling-000?&logo=proton)
+![Code Intelligence](https://img.shields.io/badge/-Code%20intelligence-000?&logo=sourcegraph)
+![Document Pipelines](https://img.shields.io/badge/-Document%20pipelines-000?&logo=readthedocs)
+![Local LLMs](https://img.shields.io/badge/-Local%20LLMs-000?&logo=ollama)
+
 ### Nuit de l'Info
 
 Several editions, one team name that somehow kept surviving: **Les Embusqués**.
