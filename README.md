@@ -58,6 +58,14 @@ I tend to sit at the intersection of **software engineering**, **data engineerin
 [![](https://img.shields.io/badge/-🌐%20Web%20Project-000)](https://github.com/MathisHeriveau/projet-web)
 [![](https://img.shields.io/badge/-🐳%20Docker%20Compose-000)](https://github.com/MathisHeriveau/Docker-compose)
 
+### Nuit de l'Info
+
+Three editions, one team name that somehow kept surviving: **Les Embusqués**.
+
+[![](https://img.shields.io/badge/-🌙%20NDI%202023%20%7C%20repo%20to%20recover-000)](https://github.com/search?q=NDI23+MathisHeriveau&type=repositories)
+[![](https://img.shields.io/badge/-🌙%20NDI%202024%20%7C%20Les%20Embusqués-000)](https://github.com/LesEmbusques/NDI24.github.io)
+[![](https://img.shields.io/badge/-🌙%20NDI%202025%20%7C%20repo%20to%20recover-000)](https://github.com/search?q=NDI25+MathisHeriveau&type=repositories)
+
 ### Academic & Engineering Work
 
 [![](https://img.shields.io/badge/-☕%20Hadoop%20Mac-000)](https://github.com/MathisHeriveau/Hadoop_Mac)
